@@ -1,0 +1,30 @@
+# Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Kotlin/Java compiled files
+*.class
+*.dex
+*.apk
+
+# Dependency directories
+/node_modules/
+/app/build/
+/app/src/main/assets/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Test reports
+/test-results/
+/coverage/
